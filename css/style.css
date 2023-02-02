@@ -1,6 +1,35 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+
+body {
+  background-size: 100vh;
+  overflow: overlay;
+}
+
+body::-webkit-scrollbar {
+  width: 10px;
+  background: transparent;
+}
+
+body::-webkit-scrollbar-thumb {
+  background: #03c5ec;
+  border-radius: 20px;
+  border-right: 5px;
+}
+
+body::-webkit-scrollbar-thumb:hover {
+  background-color: #03c5ec;
+}
+
+html {
+  scrollbar-width: thin;
+  scrollbar-color: #03c5ec #fff;
+}
+
+
+
+
 body {
   background: #fff;
   color: #666666;
