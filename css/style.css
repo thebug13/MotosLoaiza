@@ -5,11 +5,14 @@ body {
   background: #fff;
   color: #666666;
   font-family: "Open Sans", sans-serif;
+  cursor: url(/img/seleccion.png), auto;
 }
 
 a {
   color: #03C4EB;
   transition: 0.5s;
+  cursor: url(/img/cargando.png), auto;
+
 }
 
 a:hover, a:active, a:focus {
