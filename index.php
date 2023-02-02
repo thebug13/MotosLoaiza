@@ -1,0 +1,531 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+
+  <meta charset="utf-8">
+  <title>Motos Loaiza | Taller de motocicletas</title>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <meta content="" name="keywords">
+  <meta content="" name="description">
+
+  <!-- Whatsapp butom -->
+
+  <link rel="stylesheet" href="plugin/components/Font Awesome/css/font-awesome.min.css">
+  <link rel="stylesheet" href="plugin/whatsapp-chat-support.css">
+
+  <!-- Facebook Opengraph integration: https://developers.facebook.com/docs/sharing/opengraph -->
+  <meta property="og:title" content="">
+  <meta property="og:image" content="">
+  <meta property="og:url" content="">
+  <meta property="og:site_name" content="">
+  <meta property="og:description" content="">
+
+  <!-- Twitter Cards integration: https://dev.twitter.com/cards/  -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="">
+  <meta name="twitter:title" content="">
+  <meta name="twitter:description" content="">
+  <meta name="twitter:image" content="">
+
+  <!-- Place your favicon.ico and apple-touch-icon.png in the template root directory -->
+  <link href="favicon.ico" rel="shortcut icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Raleway:300,400,500,700,800"
+    rel="stylesheet">
+
+  <!-- Bootstrap CSS File -->
+  <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Libraries CSS Files -->
+  <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+  <link href="lib/animate-css/animate.min.css" rel="stylesheet">
+
+  <!-- Main Stylesheet File -->
+  <link href="css/style.css" rel="stylesheet">
+
+
+  <link rel="shortcut icon" href="/img/en blanco.png" />
+
+</head>
+
+<body>
+  <div id="preloader"></div>
+
+  <!--==========================
+  Hero Section
+  ============================-->
+  <section id="hero">
+    <div class="hero-container">
+      <div class="wow fadeIn">
+        <div class="hero-logo">
+          <img class="logoh" src="img/logo.png" alt="ProOnliPc">
+        </div>
+
+        <h1>Bienvenido a nuestro Taller Mecanico</h1>
+        <h2>Siempre <span class="rotating">Responsables, Honestos, Atentos</span></h2>
+        <div class="actions">
+          <a href="#about" class="btn-get-started">Contactanos</a>
+          <a href="#services" class="btn-services">Nuestros servicios</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!--==========================
+  Sección de encabezado
+  ============================-->
+  <header id="header">
+    <div class="container">
+      <div id="logo" class="pull-left">
+        <a href="#hero"><img src="img/logo.png" alt="" title="" class="Logocabe" /></img></a>
+      </div>
+
+      <nav id="nav-menu-container">
+        <ul class="nav-menu">
+          <li class="menu-active"><a href="#hero">Home</a></li>
+          <li><a href="#about">Sobre nosotros</a></li>
+          <li><a href="#services">Servicios</a></li>
+          <li><a href="#portfolio">Portfolio</a></li>
+          <li><a href="#testimonials">Testimonials</a></li>
+          <li><a href="#team">Team</a></li>
+          <li class="menu-has-children"><a href="">Drop Down</a>
+            <ul>
+              <li><a href="#">Drop Down 1</a></li>
+              <li class="menu-has-children"><a href="#">Drop Down 2</a>
+                <ul>
+                  <li><a href="#">Deep Drop Down 1</a></li>
+                  <li><a href="#">Deep Drop Down 2</a></li>
+                  <li><a href="#">Deep Drop Down 3</a></li>
+                  <li><a href="#">Deep Drop Down 4</a></li>
+                  <li><a href="#">Deep Drop Down 5</a></li>
+                </ul>
+              </li>
+              <li><a href="#">Drop Down 3</a></li>
+              <li><a href="#">Drop Down 4</a></li>
+              <li><a href="#">Drop Down 5</a></li>
+            </ul>
+          </li>
+          <li><a href="#contact">Contact Us</a></li>
+        </ul>
+      </nav>
+      <!-- #nav-menu-container -->
+    </div>
+  </header>
+  <!-- #header -->
+
+  <!--==========================
+  About Section
+  ============================-->
+  <section id="about">
+    <div class="container wow fadeInUp">
+      <div class="row">
+        <div class="col-md-12">
+          <h3 class="section-title">Sobre nosotros</h3>
+          <div class="section-title-divider"></div>
+          <p class="section-description">Si estás buscando servicio de mecánica de motos estas en el lugar indicado
+            porque somos especialistas en la prestación de servicios técnicos y de mantenimiento para motocicletas hasta
+            las de alto rendimiento. También nos ocupamos de los sistemas eléctricos y electrónicos que son más
+            complejos</p>
+        </div>
+      </div>
+    </div>
+    <div class="container about-container wow fadeInUp">
+      <div class="row">
+        <div class="col-md-6 col-md-push-6 about-content">
+          <h2 class="about-title">Brindamos exelentes servicios</h2>
+          <p class="about-text">
+            Somos un taller de motos en Medellín y Envigado, especializado en la reparación y mantenimiento de motos,
+            atendemos diferentes necesidades de estas, tales como reparaciones generales por daños, desgaste normal del
+            vehículo y reparaciones estéticas por desgaste de las condiciones ambientales. también realizamos servicio
+            de motores fuera de borda. Nos enfocamos en la prestación de un servicio 100% garantizado donde nuestros
+            clientes pueden vivir una experiencia de tranquilidad y confianza en nuestro espacio
+          </p>
+          <p class="about-text">
+            Nuestro fin es, que a través de la prestación de nuestros servicios, podamos alargar la vida útil del
+            vehículo y generemos seguridad para el conductor y sus familias. Nuestros servicios son totalmente
+            garantizados con personal experto en las diferentes áreas que componen las motos
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!--==========================
+  Services Section
+  ============================-->
+  <section id="services">
+    <div class="container wow fadeInUp">
+      <div class="row">
+        <div class="col-md-12">
+          <h3 class="section-title">Nuestros servicios</h3>
+          <div class="section-title-divider"></div>
+          <p class="section-description">“Nuestro objetivo es aumentar la vida útil y la sacar la mayor potencia de tu
+            moto.”</p>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-md-4 service-item">
+          <div class="service-icon"><i class="fa fa-desktop"></i></div>
+          <h4 class="service-title"><a href="">Mantenimiento preventivo</a></h4>
+          <p class="service-description">inspección preventiva y visual de la moto</p>
+        </div>
+        <div class="col-md-4 service-item">
+          <div class="service-icon"><i class="fa fa-bar-chart"></i></div>
+          <h4 class="service-title"><a href="">Reparacion de motor</a></h4>
+          <p class="service-description">Intervención general del motor, sea cabeza de fuerza o todo el motor.</p>
+        </div>
+        <div class="col-md-4 service-item">
+          <div class="service-icon"><i class="fa fa-paper-plane"></i></div>
+          <h4 class="service-title"><a href="">Mantenimiento correctivo</a></h4>
+          <p class="service-description">Reparación por desgaste común de la moto</p>
+        </div>
+        <div class="col-md-4 service-item">
+          <div class="service-icon"><i class="fa fa-photo"></i></div>
+          <h4 class="service-title"><a href="">Reparaciones electricas</a></h4>
+          <p class="service-description">Reparaciones generales eléctricas que presentan las motos.</p>
+        </div>
+        <div class="col-md-4 service-item">
+          <div class="service-icon"><i class="fa fa-road"></i></div>
+          <h4 class="service-title"><a href="">alistamiento para cda</a></h4>
+          <p class="service-description">inspección general de la moto para la revisión técnico mecánica y de gases</p>
+        </div>
+        <div class="col-md-4 service-item">
+          <div class="service-icon"><i class="fa fa-shopping-bag"></i></div>
+          <h4 class="service-title"><a href="">Eiusmod Tempor</a></h4>
+          <p class="service-description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore,
+            cum soluta nobis est eligendi</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!--==========================
+  Subscrbe Section
+  ============================-->
+  <section id="subscribe">
+    <div class="container wow fadeInUp">
+      <div class="row">
+        <div class="col-md-8">
+          <h3 class="subscribe-title">Ordenes de trabajo</h3>
+          <p class="subscribe-text">
+            Aquí puedes buscar las órdenes de trabajo creadas al ingreso de tu motocicleta con las características y
+            trabajos realizados durante un periodo de tiempo.
+          </p>
+        </div>
+        <div class="col-md-4 subscribe-btn-container">
+          <a class="subscribe-btn" href="/progress/index.php">Buscar Orden</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!--==========================
+  Multi marcas section
+  ============================-->
+  <section id="portfolio">
+    <div class="container wow fadeInUp">
+      <div class="row">
+        <div class="col-md-12">
+          <h3 class="section-title">Somos Taller Multimarca</h3>
+          <div class="section-title-divider"></div>
+          <p class="section-description">
+            Nuestros servicios se caracterizan por la solución a las necesidades presentadas por todas las marcas del
+            mercado, siendo así nuestra apuesta en atender a los diferentes públicos con su marca preferida, Atendemos
+            las necesidades mecánicas para Alto, Mediano y Bajo cilindraje.
+          </p>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-md-3">
+          <a class="portfolio-item" style="background-image: url(img/portfolio-1.jpg);" href="">
+            <div class="details">
+              <h4>Suzuki</h4>
+              <span>Motor de Colombia</span>
+            </div>
+          </a>
+        </div>
+
+        <div class="col-md-3">
+          <a class="portfolio-item" style="background-image: url(img/portfolio-2.jpg);" href="">
+            <div class="details">
+              <h4>Yamaha</h4>
+              <span>Motor de Colombia</span>
+            </div>
+          </a>
+        </div>
+
+        <div class="col-md-3">
+          <a class="portfolio-item" style="background-image: url(img/portfolio-3.jpg);" href="">
+            <div class="details">
+              <h4>Honda</h4>
+              <span>Motor de Colombia</span>
+            </div>
+          </a>
+        </div>
+
+        <div class="col-md-3">
+          <a class="portfolio-item" style="background-image: url(img/portfolio-4.jpg);" href="">
+            <div class="details">
+              <h4>Kawasaki</h4>
+              <span>Motor de Colombia</span>
+            </div>
+          </a>
+        </div>
+
+        <div class="col-md-3">
+          <a class="portfolio-item" style="background-image: url(img/portfolio-5.jpg);" href="">
+            <div class="details">
+              <h4>Kymco</h4>
+              <span>Motor de Colombia</span>
+            </div>
+          </a>
+        </div>
+
+        <div class="col-md-3">
+          <a class="portfolio-item" style="background-image: url(img/portfolio-6.jpg);" href="">
+            <div class="details">
+              <h4>AKT Motor</h4>
+              <span>Motor de Colombia</span>
+            </div>
+          </a>
+        </div>
+
+        <div class="col-md-3">
+          <a class="portfolio-item" style="background-image: url(img/portfolio-7.jpg);" href="">
+            <div class="details">
+              <h4>Auteco</h4>
+              <span>Motor de Colombia</span>
+            </div>
+          </a>
+        </div>
+
+        <div class="col-md-3">
+          <a class="portfolio-item" style="background-image: url(img/portfolio-8.jpg);" href="">
+            <div class="details">
+              <h4>KTM</h4>
+              <span>Motor de Colombia</span>
+            </div>
+          </a>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+
+  <!--==========================
+  Team Section
+  ============================-->
+  <section id="team">
+    <div class="container wow fadeInUp">
+      <div class="row">
+        <div class="col-md-12">
+          <h3 class="section-title">Equipo de trabajo </h3>
+          <div class="section-title-divider"></div>
+          <p class="section-description">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
+            doloremque</p>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-md-3">
+          <div class="member">
+            <div class="pic"><img src="img/team-1.jpg" alt=""></div>
+            <h4>Eulices Loaiza</h4>
+            <span>Tecnico de motocicletas - Titular</span>
+            <div class="social">
+              <a href=""><i class="fa fa-twitter"></i></a>
+              <a href=""><i class="fa fa-facebook"></i></a>
+              <a href=""><i class="fa fa-google-plus"></i></a>
+              <a href=""><i class="fa fa-linkedin"></i></a>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-3">
+          <div class="member">
+            <div class="pic"><img src="img/team-3.jpg" alt=""></div>
+            <h4>Jhon Alexander Osorio</h4>
+            <span>Tecnico Auxiliar</span>
+            <div class="social">
+              <a href=""><i class="fa fa-twitter"></i></a>
+              <a href=""><i class="fa fa-facebook"></i></a>
+              <a href=""><i class="fa fa-google-plus"></i></a>
+              <a href=""><i class="fa fa-linkedin"></i></a>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+
+
+
+
+
+
+
+  <!--==========================
+  Contact Section
+  ============================-->
+  <section id="contact">
+    <div class="container wow fadeInUp">
+      <div class="row">
+        <div class="col-md-12">
+          <h3 class="section-title">Contactanos</h3>
+          <div class="section-title-divider"></div>
+          <p class="section-description">
+            Somos especialistas en nuestro trabajo con la mejor certificacion de un trabajo de calidad.
+          </p>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-md-3 col-md-push-2">
+          <div class="info">
+            <div>
+              <i class="fa fa-map-marker"></i>
+              <p>Cartago, Valle del cauca<br>Diagional 2 # 1c-32</p>
+            </div>
+
+            <div>
+              <i class="fa fa-envelope"></i>
+              <p>tecnipunto75@gmail.com</p>
+            </div>
+
+            <div>
+              <i class="fa fa-phone"></i>
+              <p>+57 3103963556</p>
+            </div>
+
+          </div>
+        </div>
+
+        <div class="col-md-5 col-md-push-2">
+          <div class="form">
+            <div id="sendmessage">Su mensaje ah sido enviado . gracias</div>
+            <div id="errormessage"></div>
+            <form action="" method="post" role="form" class="contactForm">
+              <div class="form-group">
+                <input type="text" name="name" class="form-control" id="name" placeholder="Nombre"
+                  data-rule="minlen:4" data-msg="Por favor ingrese al menos 4 caracteres" />
+                <div class="validation"></div>
+              </div>
+              <div class="form-group">
+                <input type="email" class="form-control" name="email" id="email" placeholder="Correo electronico"
+                  data-rule="email" data-msg="Ingresa un Correo Valido" />
+                <div class="validation"></div>
+              </div>
+              <div class="form-group">
+                <input type="text" class="form-control" name="subject" id="subject" placeholder="Tema de la consulta"
+                  data-rule="minlen:4" data-msg="Por favor ingrese al menos 8 caracteres del tema" />
+                <div class="validation"></div>
+              </div>
+              <div class="form-group">
+                <textarea class="form-control" name="message" rows="5" data-rule="required"
+                  data-msg="Por favor escribe algo para nosotros" placeholder="Mensaje"></textarea>
+                <div class="validation"></div>
+              </div>
+              <div class="text-center"><button type="submit">Enviar mensaje</button></div>
+            </form>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!--==========================
+  Footer
+============================-->
+  <footer id="footer">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="copyright">
+            &copy; Copyright © 2023 <strong>Motos Loaiza</strong>. | Powered by <a
+              href="https://felipeloaiza.vercel.app/">Felipe Loaiza</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+  <!-- #footer -->
+
+ 
+
+  <!-- Required JavaScript Libraries -->
+  <script src="lib/jquery/jquery.min.js"></script>
+  <script src="lib/bootstrap/js/bootstrap.min.js"></script>
+  <script src="lib/superfish/hoverIntent.js"></script>
+  <script src="lib/superfish/superfish.min.js"></script>
+  <script src="lib/morphext/morphext.min.js"></script>
+  <script src="lib/wow/wow.min.js"></script>
+  <script src="lib/stickyjs/sticky.js"></script>
+  <script src="lib/easing/easing.js"></script>
+
+  <!-- Template Specisifc Custom Javascript File -->
+  <script src="js/custom.js"></script>
+
+  <script src="contactform/contactform.js"></script>
+
+
+  <!--==========================
+  Button Whatsapp Structure
+============================-->
+
+    <!-- Button Whatsapp Structure -->
+    <div class="whatsapp_chat_support wcs_fixed_right" id="button-w">
+      <div class="wcs_button_label">
+              Contáctanos
+          </div>  
+      <div class="wcs_button wcs_button_circle">
+          <span class="fa fa-whatsapp"></span>
+      </div>  
+   
+      <div class="wcs_popup">
+          <div class="wcs_popup_close">
+              <span class="fa fa-close"></span>
+          </div>
+          <div class="wcs_popup_header">
+              <span class="fa fa-whatsapp"></span>
+              <strong>Servicio al cliente</strong>
+              
+              <div class="wcs_popup_header_description">¿Necesidad de ayuda? Chatea con nosotros en Whatsapp</div>
+  
+          </div>  
+          <div class="wcs_popup_input" 
+              data-number="573103963556"
+              data-availability='{ "monday":"08:00-19:00", "tuesday":"08:00-19:00", "wednesday":"08:00-19:00", "thursday":"08:00-19:00", "friday":"08:00-19:00", "saturday":"08:00-12:00", "sunday":"23:00-24:30" }'>
+              <input type="text" placeholder="Escribir pregunta!" />
+              <i class="fa fa-play"></i>
+          </div>
+          <div class="wcs_popup_avatar">
+              <img src="/img/logo.png" alt="">
+          </div>
+      </div>
+  </div>
+  
+  
+      <!-- jQuery 1.8+ -->
+  <script src="plugin/components/jQuery/jquery-1.11.3.min.js"></script>
+      <!-- Plugin JS file -->
+  <script src="plugin/components/moment/moment.min.js"></script>
+  <script src="plugin/components/moment/moment-timezone-with-data.min.js"></script> <!-- spanish language (es) -->
+  <script src="plugin/whatsapp-chat-support.js"></script>
+  <script>
+     $('#button-w').whatsappChatSupport({
+          defaultMsg : '',
+      });
+  </script>
+
+
+</body>
+
+</html>
